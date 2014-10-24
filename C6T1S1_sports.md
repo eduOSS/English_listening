@@ -4,7 +4,7 @@ It is gone twelve.
 * organization  
 We are **primarily** a golf club.  
 keep-fit studio  
-**fully-licensed restaurant**  
+**fully-licensed restaurant**   
   
 * membership  
 **badminton**  
@@ -15,4 +15,6 @@ strech class
   
   
 * facilities  
-and vice versa  
+and vice **versa**  
+tennis courts  
+be popular with  
